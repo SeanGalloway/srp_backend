@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;data&quot;: &quot;string&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/users/login" />
+            </requestState>
+            <requestState>
+              <option name="id" value="0f3fb017-c98b-4d48-a1ba-2081b86bf13d" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 1" />
+              <option name="url" value="http://localhost:8080/users/user" />
+            </requestState>
+            <requestState>
+              <option name="id" value="572ebf70-3afd-471f-ba6d-58f3fd513734" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 2" />
+              <option name="url" value="http://localhost/" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="a8ccfc97-4c4b-42d1-83a6-9983e5dc51a3" />
+  </component>
+</project>

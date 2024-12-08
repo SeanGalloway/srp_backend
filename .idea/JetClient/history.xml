@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="History">
+    <option name="requestHistoryStates">
+      <list>
+        <requestHistoryState>
+          <option name="dateTime" value="1718818649713" />
+          <option name="id" value="1141dced-a410-4905-ad30-2777c9c372d8" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Jathis&quot;,&#10;  &quot;name_last&quot;: &quot;Vamaria&quot;,&#10;  &quot;email&quot;: &quot;Jathis@saar.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDomination&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/users/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="code" value="404" />
+              <option name="contentType" value="application/octet-stream" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="0" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Wed, 19 Jun 2024 17:37:29 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="1141dced-a410-4905-ad30-2777c9c372d8" />
+              <option name="message" value="Not Found" />
+              <option name="time" value="8" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1718818663243" />
+          <option name="id" value="cbccf1b5-a3f5-4fd4-800a-b13cd94109f5" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Jathis&quot;,&#10;  &quot;name_last&quot;: &quot;Vamaria&quot;,&#10;  &quot;email&quot;: &quot;Jathis@saar.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDomination&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/auth/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="dG9rZW4=" />
+              <option name="bodyString" value="token" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="5" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Wed, 19 Jun 2024 17:37:42 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="cbccf1b5-a3f5-4fd4-800a-b13cd94109f5" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="token" />
+              <option name="size" value="5" />
+              <option name="time" value="105" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1718826585846" />
+          <option name="id" value="0f455974-dd40-4d80-986f-c4e024c1234f" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Vladamir&quot;,&#10;  &quot;name_last&quot;: &quot;Moranovic&quot;,&#10;  &quot;email&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/auth/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="dG9rZW4=" />
+              <option name="bodyString" value="token" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="5" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Wed, 19 Jun 2024 19:49:45 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0f455974-dd40-4d80-986f-c4e024c1234f" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="token" />
+              <option name="size" value="5" />
+              <option name="time" value="702" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1718826948851" />
+          <option name="id" value="da834003-1278-4d2c-953c-143131df081d" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Vladamir&quot;,&#10;  &quot;name_last&quot;: &quot;Moranovic&quot;,&#10;  &quot;email&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/auth/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKbWFYSnpkRjl1WVcxbElqb2lWbXhoWkdGdGFYSWlMQ0pzWVhOMFgyNWhiV1VpT2lKTmIzSmhibTkyYVdNaUxDSnBaQ0k2SWpBaUxDSmxlSEFpT2lJeE56RTRPRFE0TlRRNEluMC5NR3dOQ1c3VHFDaGxQZF8ya2ptUmFodE9Lb3JhUWl3TEZqbDV6T01ZTFFB" />
+              <option name="bodyString" value="eyJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6IjAiLCJleHAiOiIxNzE4ODQ4NTQ4In0.MGwNCW7TqChlPd_2kjmRahtOKoraQiwLFjl5zOMYLQA" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="168" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Wed, 19 Jun 2024 19:55:48 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="da834003-1278-4d2c-953c-143131df081d" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6IjAiLCJleHAiOiIxNzE4ODQ4NTQ4In0.MGwNCW7TqChlPd_2kjmRahtOKoraQiwLFjl5zOMYLQA" />
+              <option name="size" value="168" />
+              <option name="time" value="710" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1719112824542" />
+          <option name="id" value="104a51af-3fe0-4124-82cb-48b544533ed9" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5Sm1hWEp6ZEY5dVlXMWxJam9pVm14aFpHRnRhWElpTENKbGVIQWlPakUzTVRreE16UTBNalFzSW1sa0lqb3dMQ0pzWVhOMFgyNWhiV1VpT2lKTmIzSmhibTkyYVdNaWZRLmEwbEplRGxoZ0ZFZTlnTWowTVlLamFpYkV3Rm9lLXdQdmFjZlJxeVB3NzQ=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJleHAiOjE3MTkxMzQ0MjQsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMifQ.a0lJeDlhgFEe9gMj0MYKjaibEwFoe-wPvacfRqyPw74" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Sun, 23 Jun 2024 03:20:23 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="104a51af-3fe0-4124-82cb-48b544533ed9" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJleHAiOjE3MTkxMzQ0MjQsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMifQ.a0lJeDlhgFEe9gMj0MYKjaibEwFoe-wPvacfRqyPw74" />
+              <option name="size" value="179" />
+              <option name="time" value="680" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1719112830824" />
+          <option name="id" value="971c3be0-c6c8-48f9-915f-cd3d13c313b0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5Sm1hWEp6ZEY5dVlXMWxJam9pVm14aFpHRnRhWElpTENKc1lYTjBYMjVoYldVaU9pSk5iM0poYm05MmFXTWlMQ0pwWkNJNk1Dd2laWGh3SWpveE56RTVNVE0wTkRNd2ZRLjZEcXlreW0wc1NhWUFtYXdmLXd0RmhXU3BtaXlCbG1KWXhyM0hXV0kxem8=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzE5MTM0NDMwfQ.6Dqykym0sSaYAmawf-wtFhWSpmiyBlmJYxr3HWWI1zo" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Sun, 23 Jun 2024 03:20:30 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="971c3be0-c6c8-48f9-915f-cd3d13c313b0" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzE5MTM0NDMwfQ.6Dqykym0sSaYAmawf-wtFhWSpmiyBlmJYxr3HWWI1zo" />
+              <option name="size" value="179" />
+              <option name="time" value="637" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1719179793500" />
+          <option name="id" value="51fc62be-559f-416e-87c8-f4367ac0834d" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnNZWE4wWDI1aGJXVWlPaUpOYjNKaGJtOTJhV01pTENKcFpDSTZNQ3dpWlhod0lqb3hOekU1TWpBeE16a3pMQ0ptYVhKemRGOXVZVzFsSWpvaVZteGhaR0Z0YVhJaWZRLnV4aFJiQnU4T216ZDEyY1llZzBTLXlRbV8yUkJQUzVMOEp1Z1lYbEVTbnc=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzE5MjAxMzkzLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIifQ.uxhRbBu8Omzd12cYeg0S-yQm_2RBPS5L8JugYXlESnw" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Sun, 23 Jun 2024 21:56:32 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="51fc62be-559f-416e-87c8-f4367ac0834d" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzE5MjAxMzkzLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIifQ.uxhRbBu8Omzd12cYeg0S-yQm_2RBPS5L8JugYXlESnw" />
+              <option name="size" value="179" />
+              <option name="time" value="673" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732247034099" />
+          <option name="id" value="dcb26fb3-401f-4b3d-a254-64a1afda0c51" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Vladamir&quot;,&#10;  &quot;name_last&quot;: &quot;Moranovic&quot;,&#10;  &quot;email&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/auth/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="dW5hdXRob3JpemVk" />
+              <option name="bodyString" value="unauthorized" />
+              <option name="code" value="401" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 03:43:54 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="dcb26fb3-401f-4b3d-a254-64a1afda0c51" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="unauthorized" />
+              <option name="size" value="12" />
+              <option name="time" value="840" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732247877756" />
+          <option name="id" value="c1dc0d7c-e4ec-40fb-adf0-ebf13c0b99b2" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Vladamir&quot;,&#10;  &quot;name_last&quot;: &quot;Moranovic&quot;,&#10;  &quot;email&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/auth/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnNZWE4wWDI1aGJXVWlPaUpOYjNKaGJtOTJhV01pTENKcFpDSTZNQ3dpWm1seWMzUmZibUZ0WlNJNklsWnNZV1JoYldseUlpd2laWGh3SWpveE56TXlNalk1TkRjM2ZRLnBmLUltTEQ3MHZqd3d3ZThPTmNCTUVVMlVodXFHNGpFcHc4VUw1VFFDNm8=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZmlyc3RfbmFtZSI6IlZsYWRhbWlyIiwiZXhwIjoxNzMyMjY5NDc3fQ.pf-ImLD70vjwwwe8ONcBMEU2UhuqG4jEpw8UL5TQC6o" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 03:57:57 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c1dc0d7c-e4ec-40fb-adf0-ebf13c0b99b2" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZmlyc3RfbmFtZSI6IlZsYWRhbWlyIiwiZXhwIjoxNzMyMjY5NDc3fQ.pf-ImLD70vjwwwe8ONcBMEU2UhuqG4jEpw8UL5TQC6o" />
+              <option name="size" value="179" />
+              <option name="time" value="1038" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732249298911" />
+          <option name="id" value="0db0bc1c-4f41-4a10-8327-7f9b7d0e5283" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SmxlSEFpT2pFM016SXlOekE0T1Rnc0ltbGtJam93TENKc1lYTjBYMjVoYldVaU9pSk5iM0poYm05MmFXTWlMQ0ptYVhKemRGOXVZVzFsSWpvaVZteGhaR0Z0YVhJaWZRLjhGSWNRajZ3c29UYkpPTmRYbFJhYWZqRWZkOVQyc3BUbE1vZmtpOFdQdk0=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzIyNzA4OTgsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIifQ.8FIcQj6wsoTbJONdXlRaafjEfd9T2spTlMofki8WPvM" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 04:21:37 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0db0bc1c-4f41-4a10-8327-7f9b7d0e5283" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzIyNzA4OTgsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIifQ.8FIcQj6wsoTbJONdXlRaafjEfd9T2spTlMofki8WPvM" />
+              <option name="size" value="179" />
+              <option name="time" value="877" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732249389054" />
+          <option name="id" value="e3cc6519-aa68-4295-b43d-3afd53bcc48f" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzIyNzA4OTgsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIifQ.8FIcQj6wsoTbJONdXlRaafjEfd9T2spTlMofki8WPvM" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="VW5hdXRob3JpemVk" />
+              <option name="bodyString" value="Unauthorized" />
+              <option name="code" value="401" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 04:22:15 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e3cc6519-aa68-4295-b43d-3afd53bcc48f" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Unauthorized" />
+              <option name="size" value="12" />
+              <option name="time" value="53866" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732249512500" />
+          <option name="id" value="31463c7e-e31b-4b7f-aef2-7c0ed29d9c8f" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzIyNzA4OTgsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIifQ.8FIcQj6wsoTbJONdXlRaafjEfd9T2spTlMofki8WPvM" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="VW5hdXRob3JpemVk" />
+              <option name="bodyString" value="Unauthorized" />
+              <option name="code" value="401" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 04:25:05 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="31463c7e-e31b-4b7f-aef2-7c0ed29d9c8f" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Unauthorized" />
+              <option name="size" value="12" />
+              <option name="time" value="6306" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732249684962" />
+          <option name="id" value="ea55e633-5518-4672-b767-56890f115014" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzIyNzA4OTgsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIifQ.8FIcQj6wsoTbJONdXlRaafjEfd9T2spTlMofki8WPvM" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="VW5hdXRob3JpemVk" />
+              <option name="bodyString" value="Unauthorized" />
+              <option name="code" value="401" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 04:27:01 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ea55e633-5518-4672-b767-56890f115014" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Unauthorized" />
+              <option name="size" value="12" />
+              <option name="time" value="63371" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732250061447" />
+          <option name="id" value="4767b333-3eac-415d-b3d8-7487257be36b" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5Sm1hWEp6ZEY5dVlXMWxJam9pVm14aFpHRnRhWElpTENKcFpDSTZNQ3dpYkdGemRGOXVZVzFsSWpvaVRXOXlZVzV2ZG1saklpd2laWGh3SWpveE56TXlNamN4TmpZeGZRLk1kTHpRSGZoWS1sNmlaNElWcGtFc2d2dlQyUktET1NvREtMZlBPTXZneUU=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJpZCI6MCwibGFzdF9uYW1lIjoiTW9yYW5vdmljIiwiZXhwIjoxNzMyMjcxNjYxfQ.MdLzQHfhY-l6iZ4IVpkEsgvvT2RKDOSoDKLfPOMvgyE" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 04:34:20 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="4767b333-3eac-415d-b3d8-7487257be36b" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJpZCI6MCwibGFzdF9uYW1lIjoiTW9yYW5vdmljIiwiZXhwIjoxNzMyMjcxNjYxfQ.MdLzQHfhY-l6iZ4IVpkEsgvvT2RKDOSoDKLfPOMvgyE" />
+              <option name="size" value="179" />
+              <option name="time" value="842" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732250078373" />
+          <option name="id" value="8ac5a94d-6924-4db7-9487-a614a247e0df" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJpZCI6MCwibGFzdF9uYW1lIjoiTW9yYW5vdmljIiwiZXhwIjoxNzMyMjcxNjYxfQ.MdLzQHfhY-l6iZ4IVpkEsgvvT2RKDOSoDKLfPOMvgyE" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="Q29udGVudCB0eXBlIGVycm9y" />
+              <option name="bodyString" value="Content type error" />
+              <option name="code" value="400" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Fri, 22 Nov 2024 04:34:35 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="8ac5a94d-6924-4db7-9487-a614a247e0df" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Content type error" />
+              <option name="size" value="18" />
+              <option name="time" value="2331" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732592632175" />
+          <option name="id" value="81ba3e41-3731-4dbc-91c2-78335bd66f4c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5Sm1hWEp6ZEY5dVlXMWxJam9pVm14aFpHRnRhWElpTENKc1lYTjBYMjVoYldVaU9pSk5iM0poYm05MmFXTWlMQ0pwWkNJNk1Dd2laWGh3SWpveE56TXlOakUwTWpNeWZRLjExUzZ2b1l6LUt1bFZHaXdQVHdyS0RMVFYtRkI0N1pkYVBzekZ0SjJreEU=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 03:43:51 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="81ba3e41-3731-4dbc-91c2-78335bd66f4c" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+              <option name="size" value="179" />
+              <option name="time" value="761" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732592638262" />
+          <option name="id" value="7b68044d-501b-499c-a474-2a905dd50cb2" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="Q29udGVudCB0eXBlIGVycm9y" />
+              <option name="bodyString" value="Content type error" />
+              <option name="code" value="400" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 03:43:57 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="7b68044d-501b-499c-a474-2a905dd50cb2" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Content type error" />
+              <option name="size" value="18" />
+              <option name="time" value="6" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732592653427" />
+          <option name="id" value="a8ad3f44-3d8f-4dca-a3dc-247aae3dab5d" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="Q29udGVudCB0eXBlIGVycm9y" />
+              <option name="bodyString" value="Content type error" />
+              <option name="code" value="400" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 03:44:13 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="a8ad3f44-3d8f-4dca-a3dc-247aae3dab5d" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Content type error" />
+              <option name="size" value="18" />
+              <option name="time" value="6" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732592698834" />
+          <option name="id" value="30d17927-d0be-4f35-ac89-5d3534b34e85" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="Q29udGVudCB0eXBlIGVycm9y" />
+              <option name="bodyString" value="Content type error" />
+              <option name="code" value="400" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 03:44:50 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="30d17927-d0be-4f35-ac89-5d3534b34e85" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Content type error" />
+              <option name="size" value="18" />
+              <option name="time" value="7623" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732592773206" />
+          <option name="id" value="c777e04e-7c27-43bf-b98a-5143d6705af8" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="Q29udGVudCB0eXBlIGVycm9y" />
+              <option name="bodyString" value="Content type error" />
+              <option name="code" value="400" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 03:45:15 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="c777e04e-7c27-43bf-b98a-5143d6705af8" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Content type error" />
+              <option name="size" value="18" />
+              <option name="time" value="57776" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732592874470" />
+          <option name="id" value="5e5dd693-ddbb-4d4a-b3d3-0959bbd5ae7b" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="Q29udGVudCB0eXBlIGVycm9y" />
+              <option name="bodyString" value="Content type error" />
+              <option name="code" value="400" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 03:47:47 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5e5dd693-ddbb-4d4a-b3d3-0959bbd5ae7b" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Content type error" />
+              <option name="size" value="18" />
+              <option name="time" value="6493" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732593556236" />
+          <option name="id" value="e6b6d954-34ce-4c63-85f2-e83fe69606b5" />
+          <option name="request">
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <nE>
+                      <option name="token" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJpZCI6MCwiZXhwIjoxNzMyNjE0MjMyfQ.11S6voYz-KulVGiwPTwrKDLTV-FB47ZdaPszFtJ2kxE" />
+                    </nE>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="8554a8e4-64a6-4aa8-8f88-a95d0453ef29" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft (2)" />
+              <option name="sortWeight" value="2000000" />
+              <option name="url" value="http://localhost:8080/note/all" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="Q29udGVudCB0eXBlIGVycm9y" />
+              <option name="bodyString" value="Content type error" />
+              <option name="code" value="400" />
+              <option name="contentType" value="text/plain; charset=utf-8" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="18" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="connection" />
+                    <option name="value" value="upgrade" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="content-type" />
+                    <option name="value" value="text/plain; charset=utf-8" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 03:58:01 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="e6b6d954-34ce-4c63-85f2-e83fe69606b5" />
+              <option name="message" value="Bad Request" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="Content type error" />
+              <option name="size" value="18" />
+              <option name="time" value="74579" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732593638939" />
+          <option name="id" value="7ca0b603-72d3-400c-86d8-4637e84b65ba" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SnNZWE4wWDI1aGJXVWlPaUpOYjNKaGJtOTJhV01pTENKbWFYSnpkRjl1WVcxbElqb2lWbXhoWkdGdGFYSWlMQ0psZUhBaU9qRTNNekkyTVRVeU16Z3NJbWxrSWpvd2ZRLlA2RXpyNE1neVlvUTVnQVNhTWRPTzF0R2k2U3M4bGFDS3ZEMVBjVDZQUGM=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJleHAiOjE3MzI2MTUyMzgsImlkIjowfQ.P6Ezr4MgyYoQ5gASaMdOO1tGi6Ss8laCKvD1PcT6PPc" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 04:00:37 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="7ca0b603-72d3-400c-86d8-4637e84b65ba" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsYXN0X25hbWUiOiJNb3Jhbm92aWMiLCJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJleHAiOjE3MzI2MTUyMzgsImlkIjowfQ.P6Ezr4MgyYoQ5gASaMdOO1tGi6Ss8laCKvD1PcT6PPc" />
+              <option name="size" value="179" />
+              <option name="time" value="704" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1732594904092" />
+          <option name="id" value="460de7ff-503c-4b9d-8128-e03c88aca25c" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;GalacticDefense&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SmxlSEFpT2pFM016STJNVFkxTURRc0ltWnBjbk4wWDI1aGJXVWlPaUpXYkdGa1lXMXBjaUlzSW1sa0lqb3dMQ0pzWVhOMFgyNWhiV1VpT2lKTmIzSmhibTkyYVdNaWZRLmgxY294MGFSREN5cm5mRnJhcFptMWF6UzdXTVVwa3B0dEJUcm5FZ2hNb2c=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzI2MTY1MDQsImZpcnN0X25hbWUiOiJWbGFkYW1pciIsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMifQ.h1cox0aRDCyrnfFrapZm1azS7WMUpkpttBTrnEghMog" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Tue, 26 Nov 2024 04:21:43 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="460de7ff-503c-4b9d-8128-e03c88aca25c" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzI2MTY1MDQsImZpcnN0X25hbWUiOiJWbGFkYW1pciIsImlkIjowLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMifQ.h1cox0aRDCyrnfFrapZm1azS7WMUpkpttBTrnEghMog" />
+              <option name="size" value="179" />
+              <option name="time" value="716" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733603947974" />
+          <option name="id" value="bac7f2d8-2910-4492-82f3-19edef8712a0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;xaladar&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="dW5hdXRob3JpemVk" />
+              <option name="bodyString" value="unauthorized" />
+              <option name="code" value="401" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Sat, 07 Dec 2024 20:39:07 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="bac7f2d8-2910-4492-82f3-19edef8712a0" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="unauthorized" />
+              <option name="size" value="12" />
+              <option name="time" value="53" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733603961725" />
+          <option name="id" value="48bd322a-1bab-4b34-bc84-d181e2c11b73" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Vladamir&quot;,&#10;  &quot;name_last&quot;: &quot;Moranovic&quot;,&#10;  &quot;email&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;xaladar&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/auth/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="dW5hdXRob3JpemVkOlF1ZXJ5IEVycm9yOiBlcnJvciByZXR1cm5lZCBmcm9tIGRhdGFiYXNlOiByZWxhdGlvbiAidXNlcnMiIGRvZXMgbm90IGV4aXN0OiBHZW5lcmljRmFpbHVyZQ==" />
+              <option name="bodyString" value="unauthorized:Query Error: error returned from database: relation &quot;users&quot; does not exist: GenericFailure" />
+              <option name="code" value="401" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="103" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Sat, 07 Dec 2024 20:39:21 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="48bd322a-1bab-4b34-bc84-d181e2c11b73" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="unauthorized:Query Error: error returned from database: relation &quot;users&quot; does not exist: GenericFailure" />
+              <option name="size" value="103" />
+              <option name="time" value="933" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733604028686" />
+          <option name="id" value="bd949dec-91d5-478d-a1e5-a130d71052e0" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;user_name&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;xaladar&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="5b8594a8-b1fa-43b4-ba2a-4cb28e9c0b76" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft (1)" />
+              <option name="sortWeight" value="1000000" />
+              <option name="url" value="http://localhost:8080/auth/login" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="dW5hdXRob3JpemVk" />
+              <option name="bodyString" value="unauthorized" />
+              <option name="code" value="401" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="12" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Sat, 07 Dec 2024 20:40:28 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="bd949dec-91d5-478d-a1e5-a130d71052e0" />
+              <option name="message" value="Unauthorized" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="unauthorized" />
+              <option name="size" value="12" />
+              <option name="time" value="30" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+        <requestHistoryState>
+          <option name="dateTime" value="1733604034082" />
+          <option name="id" value="0e06e1c6-2cba-40ef-8fb5-736a7ce54681" />
+          <option name="request">
+            <requestState>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name_first&quot;: &quot;Vladamir&quot;,&#10;  &quot;name_last&quot;: &quot;Moranovic&quot;,&#10;  &quot;email&quot;: &quot;vmc@eda.com&quot;,&#10;  &quot;password&quot;: &quot;xaladar&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="3a2c6c61-ed89-4303-8dd9-69ec9ee01c5d" />
+              <option name="method" value="POST" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:8080/auth/register" />
+            </requestState>
+          </option>
+          <option name="response">
+            <responseState>
+              <option name="bodyBytesBase64" value="ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5Sm1hWEp6ZEY5dVlXMWxJam9pVm14aFpHRnRhWElpTENKbGVIQWlPakUzTXpNMk1qVTJNelFzSW1sa0lqb3hMQ0pzWVhOMFgyNWhiV1VpT2lKTmIzSmhibTkyYVdNaWZRLmNWTVl1V1lfdkhoanVTTHV1UVhTNmRJR2ZTYkhPYXlpR1NpX19LYkVRZzg=" />
+              <option name="bodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJleHAiOjE3MzM2MjU2MzQsImlkIjoxLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMifQ.cVMYuWY_vHhjuSLuuQXS6dIGfSbHOayiGSi__KbEQg8" />
+              <option name="code" value="200" />
+              <option name="contentType" value="text/plain" />
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="content-length" />
+                    <option name="value" value="179" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="date" />
+                    <option name="value" value="Sat, 07 Dec 2024 20:40:34 GMT" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="0e06e1c6-2cba-40ef-8fb5-736a7ce54681" />
+              <option name="message" value="OK" />
+              <option name="prettyResponseType" value="TEXT" />
+              <option name="rawBodyString" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmaXJzdF9uYW1lIjoiVmxhZGFtaXIiLCJleHAiOjE3MzM2MjU2MzQsImlkIjoxLCJsYXN0X25hbWUiOiJNb3Jhbm92aWMifQ.cVMYuWY_vHhjuSLuuQXS6dIGfSbHOayiGSi__KbEQg8" />
+              <option name="size" value="179" />
+              <option name="time" value="683" />
+            </responseState>
+          </option>
+          <option name="workspaceId" value="drafts" />
+        </requestHistoryState>
+      </list>
+    </option>
+  </component>
+</project>
