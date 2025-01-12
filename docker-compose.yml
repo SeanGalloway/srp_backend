@@ -1,4 +1,16 @@
 services:
+
+  app:
+    build: .
+    ports: 
+      - "8080:3000"
+    env_file:
+      - config/local.docker.env
+    depends_on:
+      - db
+    networks:
+      - srp
+
   db:
     image: postgres:16.3
     ports:
@@ -6,4 +18,10 @@ services:
     environment:
       POSTGRES_USER: local_admin
       POSTGRES_PASSWORD: admin_pwd
-      POSTGRES_DB: srp_auth
+      POSTGRES_DB: srp
+    networks:
+      - srp
+
+networks:
+  srp:
+    driver: bridge

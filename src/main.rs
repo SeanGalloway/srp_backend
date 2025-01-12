@@ -15,6 +15,8 @@ use crate::controller::auth_controller;
 use crate::controller::note_controller;
 use crate::util::app_context;
 use crate::util::app_context::AppContext;
+use crate::util::env_manager::require_item;
+use crate::util::error_handling::application_error::ApplicationError;
 use crate::util::middleware::authenticate::Authenticate;
 
 #[actix_web::main]
@@ -29,6 +31,8 @@ async fn main() -> std::io::Result<()> {
 
     env_logger::init_from_env(Env::default().default_filter_or("info"));
 
+    let server_port = require_item("SERVER_PORT").unwrap().parse::<u16>().unwrap();
+
     HttpServer::new(move || {
         App::new()
             .wrap(Logger::default())
@@ -42,15 +46,16 @@ async fn main() -> std::io::Result<()> {
             .service(auth_controller::get_service())
             .service(note_controller::get_service().wrap(Authenticate))
     })
-        .bind(("127.0.0.1", 8080))?
+        .bind(("0.0.0.0", server_port))?
         .run()
         .await
 }
 
-async fn build_app_context() -> Result<AppContext, String> {
-    let db = Database::connect("postgres://local_admin:admin_pwd@localhost:32760/srp_auth").await;
+async fn build_app_context() -> Result<AppContext, ApplicationError> {
+    let connection_string = require_item("DATABASE_URL")?;
+    let db = Database::connect(connection_string).await;
     if db.is_err() {
-        return Err(format!("Failed to create db connection: {0}", db.unwrap_err()))
+        return Err(ApplicationError::new(format!("Failed to create db connection: {0}", db.unwrap_err()).as_str()))
     }
 
     Ok(AppContext {

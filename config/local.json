@@ -1,0 +1,4 @@
+{
+  "SERVER_PORT": 8080,
+  "DATABASE_URL": "postgres://local_admin:admin_pwd@localhost:32760/srp"
+}
